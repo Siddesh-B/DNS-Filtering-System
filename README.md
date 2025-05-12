@@ -1,3 +1,5 @@
+ABSTRACT:
+
 => The increasing volume of cyber threats necessitates advanced techniques for detecting and filtering malicious domains in real time. 
 
 => This project presents a DNS Filtering System that leverages AI-driven semantic similarity analysis and Threat Intelligence Feeds to identify and 
